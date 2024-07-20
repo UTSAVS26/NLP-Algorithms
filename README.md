@@ -23,7 +23,7 @@ Detailed guides and tutorials on various topics. These resources are designed to
 
 | S.No | Documentation                 | S.No | Documentation            | S.No | Documentation                     |
 |------|-------------------------------|------|--------------------------|------|-----------------------------------|
-| 1    | NLP Introduction              | 2    | NLTK Setup               | 3    | Text Preprocessing Techniques     |
+| 1    | [NLP Introduction](./Documentation/NLP_Introduction.md)              | 2    | [NLTK Setup](./Documentation/NLTK_Setup.md)               | 3    | [Text Preprocessing Techniques](./Documentation/Text_Preprocessing_Techniques.md)     |
 | 4    | Word Embeddings               | 5    | Transformers Overview    | 6    | Sentiment Analysis Guide          |
 | 7    | Named Entity Recognition      | 8    | Text Classification      | 9    | Machine Translation               |
 | 10   | Topic Modeling                | 11   | Text Summarization       | 12   | Question Answering                |
