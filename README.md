@@ -10,7 +10,7 @@ A diverse collection of algorithms, each with clear explanations, test cases, an
 
 | S.No | Algorithm                 | S.No | Algorithm                | S.No | Algorithm                     |
 |------|---------------------------|------|--------------------------|------|-------------------------------|
-| 1    | Bag of Words              | 2    | TF-IDF                   | 3    | Word2Vec                      |
+| 1    | [Bag of Words](./Algorithms/bag-of-words.ipynb)              | 2    | [TF-IDF](./Algorithms/tf-idf.ipynb)                   | 3    | [Word2Vec](./Algorithms/word2vec.ipynb)                      |
 | 4    | GloVe                     | 5    | FastText                 | 6    | BERT                          |
 | 7    | Text Classification       | 8    | Named Entity Recognition | 9    | Sentiment Analysis            |
 | 10   | Part of Speech Tagging    | 11   | Dependency Parsing       | 12   | Machine Translation           |
