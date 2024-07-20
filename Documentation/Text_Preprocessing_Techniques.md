@@ -325,8 +325,4 @@ print("Sentences Without Extra Whitespace:", sentences)
 
 Text preprocessing is a crucial step in natural language processing (NLP) and can significantly impact the performance of your models and applications. With NLTK, you have a powerful toolset that simplifies and streamlines these tasks.
 
-I hope this guide provides you with a solid foundation for text preprocessing with NLTK. As you continue your journey in NLP,
-
- remember that preprocessing is just the beginning. There are many more exciting and advanced techniques to explore and apply in your projects.
-
 Happy coding! 💻
