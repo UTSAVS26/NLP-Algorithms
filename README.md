@@ -10,9 +10,9 @@ A diverse collection of algorithms, each with clear explanations, test cases, an
 
 | S.No | Algorithm                 | S.No | Algorithm                | S.No | Algorithm                     |
 |------|---------------------------|------|--------------------------|------|-------------------------------|
-| 1    | [Bag of Words](./Algorithms/bag-of-words.ipynb)              | 2    | [TF-IDF](./Algorithms/tf-idf.ipynb)                   | 3    | [Word2Vec](./Algorithms/word2vec.ipynb)                      |
-| 4    | [GloVe](./Algorithms/glove.ipynb)                     | 5    | [FastText](./Algorithms/FastText.ipynb)                 | 6    | BERT                          |
-| 7    | Text Classification       | 8    | Named Entity Recognition | 9    | Sentiment Analysis            |
+| 1    | [Bag of Words](./Algorithms/bag-of-words.ipynb) | 2    | [TF-IDF](./Algorithms/tf-idf.ipynb) | 3    | [Word2Vec](./Algorithms/word2vec.ipynb)  |
+| 4    | [GloVe](./Algorithms/GloVe) | 5    | [FastText](./Algorithms/FastText) | 6    | BERT |
+| 7    | [Text Classification](./Algorithms/Text_Classification)       | 8    | [Named Entity Recognition](./Algorithms/Named_Entity_Recognition) | 9    | Sentiment Analysis            |
 | 10   | Part of Speech Tagging    | 11   | Dependency Parsing       | 12   | Machine Translation           |
 | 13   | Text Summarization        | 14   | Topic Modeling           | 15   | Question Answering            |
 | 16   | Text Generation           | 17   | Text Clustering          | 18   | Language Modeling             |
@@ -23,12 +23,11 @@ Detailed guides and tutorials on various topics. These resources are designed to
 
 | S.No | Documentation                 | S.No | Documentation            | S.No | Documentation                     |
 |------|-------------------------------|------|--------------------------|------|-----------------------------------|
-| 1    | [NLP Introduction](./Documentation/NLP_Introduction.md)              | 2    | [NLTK Setup](./Documentation/NLTK_Setup.md)               | 3    | [Text Preprocessing Techniques](./Documentation/Text_Preprocessing_Techniques.md)     |
-| 4    | [Word Embeddings](./Documentation/Word_Embeddings.md)               | 5    | Transformers Overview    | 6    | Sentiment Analysis Guide          |
-| 7    | Named Entity Recognition      | 8    | Text Classification      | 9    | Machine Translation               |
-| 10   | Topic Modeling                | 11   | Text Summarization       | 12   | Question Answering                |
-| 13   | Text Generation               | 14   | Text Clustering          | 15   | Language Modeling                 |
-| 16   | Advanced NLP Techniques       | 17   | Practical NLP Projects   | 18   | NLP with Deep Learning            |
+| 1    | [NLP Introduction](./Documentation/NLP_Introduction.md) | 2    | [NLTK Setup](./Documentation/NLTK_Setup.md) | 3    | [Text Preprocessing Techniques](./Documentation/Text_Preprocessing_Techniques.md) |
+| 4    | [Word Embeddings](./Documentation/Word_Embeddings.md) | 5    | [Transformers Overview](./Documentation/Transformers.md) | 6    | Machine Translation          |
+| 7   | Topic Modeling                | 8   | Text Summarization       | 9   | Question Answering                |
+| 10   | Text Generation               | 11   | Text Clustering          | 12   | Language Modeling                 |
+| 13   | Advanced NLP Techniques       | 14   | Practical NLP Projects   | 15   | NLP with Deep Learning            |
 
 ## Getting Started
 
